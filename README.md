@@ -9,10 +9,10 @@
 # 
 #### Nessa hora, você vai constantemente buscar nos sites desses fornecedores os produtos disponíveis e o preço, afinal, cada um deles pode fazer promoção em momentos diferentes e com valores diferentes.
 # 
-#### - Seu objetivo: Se o valor dos produtos for abaixo de um preço limite definido por você, você vai descobrir os produtos mais baratos e atualizar isso em uma planilha.
-#### - Em seguida, vai enviar um e-mail com a lista dos produtos abaixo do seu preço máximo de compra.
+#### -> Seu objetivo: Se o valor dos produtos for abaixo de um preço limite definido por você, você vai descobrir os produtos mais baratos e atualizar isso em uma planilha.
+#### Em seguida, vai enviar um e-mail com a lista dos produtos abaixo do seu preço máximo de compra.
 # 
-#### - No nosso caso, vamos fazer com produtos comuns em sites como Google Shopping e Buscapé, mas a ideia é a mesma para outros sites.
+#### No nosso caso, vamos fazer com produtos comuns em sites como Google Shopping e Buscapé, mas a ideia é a mesma para outros sites.
 # 
 #### OBS.: Sites da Magalu, Amazon e Lojas Americanas, pode não dar certo a consulta pelo Selenium, pois esses sites tem mecanismos que bloqueiam automações. Uma outra forma seria fazer por API.
 # 
