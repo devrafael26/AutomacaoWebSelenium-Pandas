@@ -18,13 +18,13 @@
 # 
 ### O que temos disponível?
 # 
-# - Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vamos querer evitar nas nossas buscas.
+#### Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vamos querer evitar nas nossas buscas.
 # 
 ### O que devemos fazer:
 # 
-# - Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
-# - O mesmo para o Buscapé
-# - Enviar um e-mail para o seu e-mail (no caso da empresa seria para a área de compras por exemplo) com a notificação e a tabela com os itens e preços encontrados, junto com o link de compra.
+#### Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
+#### O mesmo para o Buscapé
+#### Enviar um e-mail para o seu e-mail (no caso da empresa seria para a área de compras por exemplo) com a notificação e a tabela com os itens e preços encontrados, junto com o link de compra.
 # 
 ### PASSOS
 # 
@@ -42,8 +42,8 @@
 #         -> verificar se algum dos produtos do Buscapé está dentro da minha faixa de preço.
 #         
 # 
-# 4. Salvar as ofertas boas em um data frame (tabela)
+#### 4. Salvar as ofertas boas em um data frame (tabela)
 # 
-# 5. Exportar pro Excel
+#### 5. Exportar pro Excel
 # 
-# 6. Enviar por email o resultado da tabela
+#### 6. Enviar por email o resultado da tabela
