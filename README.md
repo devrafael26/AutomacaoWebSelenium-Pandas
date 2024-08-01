@@ -16,25 +16,25 @@
 # 
 #### OBS.: Sites da Magalu, Amazon e Lojas Americanas, pode não dar certo a consulta pelo Selenium, pois esses sites tem mecanismos que bloqueiam automações. Uma outra forma seria fazer por API.
 # 
-# ### O que temos disponível?
+### O que temos disponível?
 # 
 # - Planilha de Produtos, com os nomes dos produtos, o preço máximo, o preço mínimo (para evitar produtos "errados" ou "baratos de mais para ser verdade" e os termos que vamos querer evitar nas nossas buscas.
 # 
-# ### O que devemos fazer:
+### O que devemos fazer:
 # 
 # - Procurar cada produto no Google Shopping e pegar todos os resultados que tenham preço dentro da faixa e sejam os produtos corretos
 # - O mesmo para o Buscapé
 # - Enviar um e-mail para o seu e-mail (no caso da empresa seria para a área de compras por exemplo) com a notificação e a tabela com os itens e preços encontrados, junto com o link de compra.
 # 
-# ## PASSOS
+### PASSOS
 # 
-# 0. Importar bibliotecas
+#### 0. Importar bibliotecas
 # 
-# 1. Criar um navegador
+#### 1. Criar um navegador
 # 
-# 2. Importar/visualizar a base de dados
+#### 2. Importar/visualizar a base de dados
 # 
-# 3. Para cada item dentro da nossa base de dados (para cada produto)
+#### 3. Para cada item dentro da nossa base de dados (para cada produto)
 # 
 #     - procurar esse produto no Google Shopping
 #         -> verificar se algum dos produtos do Google Shopping está dentro da minha faixa de preço.
