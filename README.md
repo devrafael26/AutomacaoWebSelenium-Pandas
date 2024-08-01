@@ -1,9 +1,7 @@
-# AutomacaoWebSelenium-Pandas
- Automação web para busca de preço de produtos na Intenet, utilizando  Selenium.
- 
+
  # # Projeto Automação Web - Busca de Preços
 # 
-# ### Objetivo: treinar um projeto em que a gente tenha que usar automações web com Selenium para buscar as informações que precisamos
+# ## Objetivo: treinar um projeto em que a gente tenha que usar automações web com Selenium para buscar as informações que precisamos
 # 
 # 
 # ### Como vai funcionar:
