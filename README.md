@@ -36,12 +36,11 @@
 # 
 #### 3. Para cada item dentro da nossa base de dados (para cada produto)
 # 
-#     - procurar esse produto no Google Shopping
-#         -> verificar se algum dos produtos do Google Shopping está dentro da minha faixa de preço.
-#     - procurar esse produto no Buscapé
-#         -> verificar se algum dos produtos do Buscapé está dentro da minha faixa de preço.
+#### -> procurar esse produto no Google Shopping
+#### -> verificar se algum dos produtos do Google Shopping está dentro da minha faixa de preço.
+#### -> procurar esse produto no Buscapé
+#### -> verificar se algum dos produtos do Buscapé está dentro da minha faixa de preço.
 #         
-# 
 #### 4. Salvar as ofertas boas em um data frame (tabela)
 # 
 #### 5. Exportar pro Excel
